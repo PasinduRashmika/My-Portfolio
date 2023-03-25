@@ -2,13 +2,15 @@ import React from "react";
 import { useTypewriter, Cursor } from "react-simple-typewriter";
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaReact,FaGithub,FaHackerrank,FaNodeJs,FaNode,FaJava,FaCss3Alt } from "react-icons/fa";
 import { SiTailwindcss, SiFigma, SiMongodb,SiExpress, SiFlutter } from "react-icons/si";
-
+import { BsMedium} from "react-icons/bs";
 const LeftBanner = () => {
   const [text] = useTypewriter({
     words: [
       "Professional Coder.",
       "Full Stack Developer.",
+      "Mobile App Developer.",
       "UI Designer.",
+      "Medium Writter.",
       "Team Leader.",
     ],
     loop: true,
@@ -56,6 +58,9 @@ const LeftBanner = () => {
             </span>
             <span className="bannerIcon"><a href="https://www.hackerrank.com/rashmikaofficia1" target="_blank">
               <FaHackerrank /></a>
+            </span>
+            <span className="bannerIcon"><a href="https://medium.com/@rashmikaofficial98" target="_blank">
+              <BsMedium /></a>
             </span>
           </div>
         </div>

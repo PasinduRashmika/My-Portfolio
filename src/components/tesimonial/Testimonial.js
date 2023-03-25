@@ -3,7 +3,7 @@ import Slider from "react-slick";
 import { RiStarFill } from "react-icons/ri";
 import { HiArrowRight, HiArrowLeft } from "react-icons/hi";
 import Title from '../layouts/Title'
-import { testimonialOne,testimonialTwo, quote } from "../../assets";
+import { testimonialOne,testimonialTwo, testimonialThree, quote } from "../../assets";
 
 
 function SampleNextArrow(props) {
@@ -93,7 +93,7 @@ const Testimonial = () => {
       className="w-full py-20 border-b-[1px] border-b-black"
     >
       <div className="flex justify-center items-center text-center">
-        <Title title="WHAT CLIENTS SAY" des="Testimonial" />
+        <Title title="University Projects" des="Special Projects" />
       </div>
       <div className="max-w-6xl mx-auto">
         {/* ================ Slider One ================== */}
@@ -108,11 +108,11 @@ const Testimonial = () => {
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
-                    Bound - Trolola
+                    
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Hostel Management System</h3>
                   <p className="text-base tracking-wide text-gray-500">
-                    Operation Officer
+                    University of Ruhuna
                   </p>
                 </div>
               </div>
@@ -122,7 +122,7 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design.
+                        Hostel Management System.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
                         via Upwork - Mar 4, 2015 - Aug 30, 2021 test
@@ -159,11 +159,11 @@ const Testimonial = () => {
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
-                    Bound - Trolola
+                    
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Faculty of Science Lecture’s FOSMIS</h3>
                   <p className="text-base tracking-wide text-gray-500">
-                    Operation Officer
+                    University of Ruhuna
                   </p>
                 </div>
               </div>
@@ -173,7 +173,7 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design.
+                      Faculty of Science Lecture’s FOSMIS.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
                         via Upwork - Mar 4, 2015 - Aug 30, 2021 test
@@ -205,16 +205,16 @@ const Testimonial = () => {
               <div className="w-full lgl:w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg shadow-shadowOne flex flex-col md:flex-row lgl:flex-col gap-8 justify-center md:justify-start lgl:justify-center">
                 <img
                   className="h-72 md:h-32 lgl:h-72 rounded-lg object-cover"
-                  src={testimonialOne}
+                  src={testimonialThree}
                   alt="testimonialOne"
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
-                    Bound - Trolola
+                  
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Medical Center Adminitrative System</h3>
                   <p className="text-base tracking-wide text-gray-500">
-                    Operation Officer
+                    University of Ruhuna
                   </p>
                 </div>
               </div>
@@ -224,7 +224,7 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design.
+                      Medical Center Adminitrative SystemTravel Mobile App Design.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
                         via Upwork - Mar 4, 2015 - Aug 30, 2021 test
