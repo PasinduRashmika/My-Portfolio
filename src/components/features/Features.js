@@ -1,9 +1,10 @@
-import React from 'react'
-import { AiFillAppstore } from "react-icons/ai";
+import React from "react";
+import { MdDesignServices, MdArticle } from "react-icons/md";
 import { FaMobile, FaGlobe } from "react-icons/fa";
-import { SiProgress, SiAntdesign } from "react-icons/si";
-import Title from '../layouts/Title';
-import Card from './Card';
+import { BsCode,BsFillImageFill,BsCodeSlash } from "react-icons/bs";
+import { CgWebsite } from "react-icons/cg";
+import Title from "../layouts/Title";
+import Card from "./Card";
 
 const Features = () => {
   return (
@@ -14,44 +15,38 @@ const Features = () => {
       <Title title="Features" des="What I Do" />
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-20">
         <Card
-          title="Business Stratagy"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-         
-        />
-        <Card
           title="Web Design"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-          icon={<AiFillAppstore />}
+          des="I compose new designs for web pages that helps to get a fresh, simple and unique look."
+          icon={<MdDesignServices />}
         />
         <Card
           title="Web Dev"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-          icon={<SiProgress />}
+          des="I have lot of skiils in website development and take pride in creating websites that deliver exceptional performance with lightning-fast speed."
+          icon={<CgWebsite />}
         />
         <Card
           title="Programming"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-          icon={<FaMobile />}
+          des="I am a genius figure in C and Java programming languages, and leverage them to develop robust and scalable backend solutions for websites."
+          icon={<BsCodeSlash />}
         />
         <Card
           title="App Dev"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-          icon={<SiAntdesign />}
+          des="I a person of interst in mobile application development and take pride in creating visually appealing apps with a user-friendly interface & I can design and develop high-quality mobile applications."
+          icon={<FaMobile />}
         />
         <Card
           title="UX Design"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-          icon={<FaGlobe />}
+          des="I have a strong focus on UI/UX design for websites, creating visually appealing and user-friendly interfaces."
+          icon={<BsFillImageFill />}
+        />
+        <Card
+          title="Article writting"
+          des="With a focus on high-quality content and strong storytelling, I strive to provide readers with valuable insights and thought-provoking perspectives."
+          icon={<MdArticle />}
         />
       </div>
     </section>
   );
-}
+};
 
-export default Features
+export default Features;

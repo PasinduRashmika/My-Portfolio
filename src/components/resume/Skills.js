@@ -20,31 +20,31 @@ const Education = () => {
             title="Web Development"
             subTitle="(2019 - Presents)"
             result="Present"
-            des="The training provided by universities in order to prepare people to work in various sectors of the economy or areas of culture."
+            des="I have lot of skiils in website development and take pride in creating websites that deliver exceptional performance with lightning-fast speed."
           />
           <ResumeCard
             title="Web Design"
             subTitle="(2019 - Presents)"
             result="Present"
-            des="Higher education is tertiary education leading to award of an academic degree. Higher education, also called post-secondary education."
+            des="I compose new designs for web pages that helps to get a fresh, simple and unique look."
           />
           <ResumeCard
             title="Article Writting"
             subTitle="(2023 - Presents)"
             result="Present"
-            des="Secondary education or post-primary education covers two phases on the International Standard Classification of Education scale."
+            des="With a focus on high-quality content and strong storytelling, I strive to provide readers with valuable insights and thought-provoking perspectives."
           />
           <ResumeCard
             title="Mobile App Development"
             subTitle="(2020 - Presents)"
             result="Present"
-            des="Secondary education or post-primary education covers two phases on the International Standard Classification of Education scale."
+            des="I a person of interst in mobile application development and take pride in creating visually appealing apps with a user-friendly interface & I can design and develop high-quality mobile applications."
           />
           <ResumeCard
             title="UX Design"
             subTitle="(2020 - Presents)"
             result="Present"
-            des="Secondary education or post-primary education covers two phases on the International Standard Classification of Education scale."
+            des="I have a strong focus on UI/UX design for websites, creating visually appealing and user-friendly interfaces."
           />
         </div>
       </div>

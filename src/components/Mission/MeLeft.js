@@ -80,7 +80,7 @@ const LeftBanner = () => {
           <h2 className="text-base uppercase font-titleFont mb-4">
             Find me in
           </h2>
-          <div className="flex gap-4">
+          <div className="flex gap-2">
             <span className="bannerIcon">
               <a href="https://github.com/PasinduRashmika" target="_blank">
                 <FaGithub />
@@ -119,7 +119,7 @@ const LeftBanner = () => {
           <h2 className="text-base uppercase font-titleFont mb-5 mt-2">
             BEST SKILL ON
           </h2>
-          <div className="flex gap-4">
+          <div className="flex gap-2">
             <span className="bannerIcon">
               <FaReact />
             </span>

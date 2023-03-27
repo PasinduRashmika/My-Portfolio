@@ -20,7 +20,7 @@ const Education = () => {
             title="Sales Representative at HNB General Insurance"
             subTitle="2018 - 2019"
             result="Present"
-            des="The training provided by universities in order to prepare people to work in various sectors of the economy or areas of culture."
+            des="I held a position as a Sales Representative at HNB General Insurance, where I was responsible for promoting and selling insurance policies to clients. During my tenure, I consistently met or exceeded sales targets and provided exceptional customer service to maintain positive client relationships."
           />
           
           
