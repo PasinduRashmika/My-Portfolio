@@ -53,7 +53,7 @@ const LeftBanner = () => {
             <span className="bannerIcon"><a href="https://www.linkedin.com/in/pasindu-rashmika/" target="_blank">
               <FaLinkedinIn /></a>
             </span>
-            <span className="bannerIcon"><a href="https://www.linkedin.com/in/pasindu-rashmika/" target="_blank">
+            <span className="bannerIcon"><a href="https://web.facebook.com/profile.php?id=100009460623393" target="_blank">
               <FaFacebookF /></a>
             </span>
             <span className="bannerIcon"><a href="https://www.hackerrank.com/rashmikaofficia1" target="_blank">

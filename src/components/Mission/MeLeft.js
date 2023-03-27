@@ -96,7 +96,7 @@ const LeftBanner = () => {
             </span>
             <span className="bannerIcon">
               <a
-                href="https://www.linkedin.com/in/pasindu-rashmika/"
+                href="https://web.facebook.com/profile.php?id=100009460623393"
                 target="_blank"
               >
                 <FaFacebookF />

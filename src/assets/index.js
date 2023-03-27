@@ -11,7 +11,7 @@ import projectEight from "./images/projects/projectEight.png";
 import projectNine from "./images/projects/projectNine.png";
 import testimonialOne from "./images/testmonial/testimonialOne.jpg";
 import testimonialTwo from "./images/testmonial/testimonialOne.jpg";
-import testimonialThree from "./images/testmonial/testimonialOne.jpg";
+import testimonialThree from "./images/testmonial/testimonialThree.png";
 import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.jpg";
 

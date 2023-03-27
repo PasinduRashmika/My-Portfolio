@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
+import { FaFacebookF, FaLinkedinIn,FaGithub } from "react-icons/fa";
 import {logo} from "../../assets/index"
 
 const Footer = () => {
@@ -8,15 +8,15 @@ const Footer = () => {
       <div className="w-full h-full flex flex-col gap-8">
         <img className="w-32" src={logo} alt="logo" />
         <div className="flex gap-4">
-          <span className="bannerIcon">
-            <FaFacebookF />
-          </span>
-          <span className="bannerIcon">
-            <FaTwitter />
-          </span>
-          <span className="bannerIcon">
-            <FaLinkedinIn />
-          </span>
+        <span className="bannerIcon"><a href="https://github.com/PasinduRashmika" target="_blank">
+              <FaGithub /></a>
+            </span>
+            <span className="bannerIcon"><a href="https://www.linkedin.com/in/pasindu-rashmika/" target="_blank">
+              <FaLinkedinIn /></a>
+            </span>
+            <span className="bannerIcon"><a href="https://web.facebook.com/profile.php?id=100009460623393" target="_blank">
+              <FaFacebookF /></a>
+            </span>
         </div>
       </div>
       <div className="w-full h-full">
