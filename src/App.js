@@ -11,6 +11,7 @@ import Testimonial from "./components/tesimonial/Testimonial";
 import Mission from "./components/Mission/Me"
 
 function App() {
+  
   return (
     <div className="w-full h-auto bg-bodyColor text-lightText px-4">
         <Navbar />
