@@ -9,6 +9,7 @@ import Projects from "./components/projects/Projects";
 import Resume from "./components/resume/Resume";
 import Testimonial from "./components/tesimonial/Testimonial";
 import Mission from "./components/Mission/Me"
+import Skiils from "./components/Skills/Skills"
 
 function App() {
   
@@ -17,6 +18,7 @@ function App() {
         <Navbar />
       <div className="max-w-screen-xl mx-auto">
         <Banner />
+        <Skiils />
         <Features />
         <Mission/>
         <Testimonial />
