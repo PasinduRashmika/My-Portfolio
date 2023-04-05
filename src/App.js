@@ -9,13 +9,15 @@ import Projects from "./components/projects/Projects";
 import Resume from "./components/resume/Resume";
 import Testimonial from "./components/tesimonial/Testimonial";
 import Mission from "./components/Mission/Me"
-import Skiils from "./components/Skills/Skills"
+import Skiils from "./components/Skills/Skills";
+import ScrollToTop from './Hooks/ScrollToTop';
 
 function App() {
   
   return (
     <div className="w-full h-auto bg-bodyColor text-lightText px-4">
         <Navbar />
+        <ScrollToTop />
       <div className="max-w-screen-xl mx-auto">
         <Banner />
         <Skiils />

@@ -16,8 +16,7 @@ const ContactLeft = () => {
           MERN Stack Developer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis
-          ipsam autem cumque, accusantium dicta odio.
+        I am a computer science undergatuate of University of Ruhuna and from Matugama Sri lanka.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">+94 71 57 22 313/+94 76 14 05 188</span>

@@ -151,7 +151,7 @@ const Testimonial = () => {
                         Hostel Management System.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        University of Ruhuna - Sep, 2021 - Sep, 2022 
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -221,7 +221,7 @@ const Testimonial = () => {
                         Faculty of Science Lecture’s FOSMIS.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        Faculty ofScience - Jan, 2021 - Jan, 2022 
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -236,7 +236,7 @@ const Testimonial = () => {
                     Our team has designed and implemented a system that offers
                     facilities to the Faculty of Science at the University of
                     Ruhuna, streamlining various functions to simplify the
-                    lecturers' work. Our solution optimizes therir proffesional
+                    lecturers' work. Our solution optimizes their professional
                     details and improving overall efficiency and effectiveness.
                   </p>
                   <p className="text-base text-gray-400 mt-3">
@@ -273,7 +273,7 @@ const Testimonial = () => {
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2"></p>
                   <h3 className="text-2xl text-designColor font-bold">
-                    Medical Center Adminitrative System
+                    Medical Center Administrative  System
                   </h3>
                   <p className="text-base tracking-wide text-white">
                     University of Ruhuna
@@ -286,10 +286,10 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl text-designColor font-medium tracking-wide text-align:center">
-                        Medical Center Adminitrative System & Mobile App.
+                        Medical Center Administrative System & Mobile App
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        Our Choice - Dec, 2022 - Present
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
